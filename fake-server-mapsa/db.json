@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "fname": "maziyar",
+      "lname": "parsi",
+      "id": 1
+    },
+    {
+      "fname": "maral",
+      "lname": "najafi",
+      "id": 2
+    }
+  ]
+}
